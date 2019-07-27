@@ -5,9 +5,9 @@ ROS_version: 1.5.1
 k8s_version: ""
 server:
   cpus: 1
-  memory: 1500
+  memory: 2024
 node:
-  count: 1
+  count: 2
   cpus: 1
   memory: 1500
 ip:
